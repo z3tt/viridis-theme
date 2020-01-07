@@ -1,15 +1,15 @@
-# viridis-theme :yellow_heart: :green_heart: :purple_heart:
+# :yellow_heart: :green_heart: :purple_heart: viridis-theme
 
 Theme based on the [viridis color palette](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) and a theme by [David Cooley](https://github.com/SymbolixAU/rstudiothemes/blob/master/viridis.tmTheme).  
 Available as `tmTheme` and `rstheme`.
 
-!["./img/viridis-theme.png"](https://github.com/Z3tt/fairlyfloss-dark/blob/master/img/viridis-theme.png)
+!["./img/viridis-theme-preview.png"](https://github.com/Z3tt/fairlyfloss-dark/blob/master/img/viridis-theme-preview.png)
 
 ### Notes on `.rstheme` installation*
 
 To install custom themes in RStudio, you must have the [daily build](https://dailies.rstudio.com/) installed.
 
-With the daily build, you can import either the [tmTheme file](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark.tmTheme) or the [rstheme file](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark.rstheme) by going to `Preferences >> Appearance >> Add` (see gif below — fairlyfloss_dark not actually shown).
+With the daily build, you can import either the [tmTheme file](https://github.com/Z3tt/fairlyfloss-dark/blob/master/viridis.tmTheme) or the [rstheme file](https://github.com/Z3tt/fairlyfloss-dark/blob/master/viridis.rstheme) by going to `Preferences >> Appearance >> Add` (see gif below — fairlyfloss_dark not actually shown).
 
 ![Importing custom themes in RStudio](https://i.imgur.com/0801DLK.gif)
 
