@@ -1,4 +1,4 @@
-# :yellow_heart: :green_heart: :purple_heart: viridis-theme
+# :yellow_heart::green_heart::purple_heart: viridis-theme
 
 Theme based on the [viridis color palette](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) and a theme by [David Cooley](https://github.com/SymbolixAU/rstudiothemes/blob/master/viridis.tmTheme).  
 Available as `tmTheme` and `rstheme`.
