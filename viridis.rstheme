@@ -72,17 +72,17 @@
 }
 
 .ace_constant {
-  color: #DCE319;
-
-}
-
-.ace_constant.ace_language {
   color: #FFF069;
 
 }
 
+.ace_constant.ace_language {
+  color: #95D840;
+
+}
+
 .ace_constant.ace_numeric {
-  color: #238A8D;
+  color: #29AF7F;
 
 }
 
