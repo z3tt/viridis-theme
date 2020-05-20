@@ -24,7 +24,7 @@
 				<key>invisibles</key>
 				<string>#1C1C1C</string>
 				<key>lineHighlight</key>
-				<string>#262A54</string>
+				<string>#4E396E</string>
 				<key>selection</key>
 				<string>#404788</string>
 			</dict>
@@ -87,7 +87,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#95D840</string>
+				<string>#B8DE29</string>
 			</dict>
 		</dict>
 		<dict>
@@ -100,7 +100,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B8DE29</string>
+				<string>#95D840</string>
 			</dict>
 		</dict>
 		<dict>
@@ -503,7 +503,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.viridis</string>
+	<string>theme.dark.viridis_test</string>
 	<key>comment</key>
 	<string>Based on a theme by David Cooley: https:&#x2f;&#x2f;github.com&#x2f;SymbolixAU&#x2f;rstudiothemes&#x2f;blob&#x2f;master&#x2f;viridis.tmTheme</string>
 </dict>

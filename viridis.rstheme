@@ -40,11 +40,11 @@
 }
 
 .ace_marker-layer .ace_active-line {
-  background: #262A54;
+  background: #4E396E;
 }
 
 .ace_gutter-active-line {
-  background-color: #262A54;
+  background-color: #4E396E;
 }
 
 .ace_marker-layer .ace_selected-word {
@@ -77,7 +77,7 @@
 }
 
 .ace_constant.ace_language {
-  color: #95D840;
+  color: #B8DE29;
 
 }
 
@@ -136,7 +136,7 @@
 }
 
 .ace_variable {
-  color: #B8DE29;
+  color: #95D840;
 
 }
 
