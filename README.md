@@ -3,7 +3,7 @@
 Theme based on the [viridis color palette](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) and a theme by [David Cooley](https://github.com/SymbolixAU/rstudiothemes/blob/master/viridis.tmTheme).  
 Available as `tmTheme` and `rstheme`.
 
-!["./img/viridis-theme-preview.png"](https://github.com/Z3tt/viridis-theme/blob/master/img/viridis-theme-preview.png)
+!["./img/viridis-theme-preview.png"](https://raw.githubusercontent.com/z3tt/viridis-theme/main/img/viridis-theme-preview.png)
 
 ### Notes on `.rstheme` installation*
 
